@@ -2,6 +2,7 @@
 
 [![](https://img.shields.io/pypi/v/alloy.svg)](https://pypi.python.org/pypi/alloy)
 [![](https://img.shields.io/travis/uchuhimo/alloy.svg)](https://travis-ci.org/uchuhimo/alloy)
+[![](https://github.com/uchuhimo/alloy/workflows/Python%20package/badge.svg)](https://github.com/uchuhimo/alloy/actions)
 [![Documentation Status](https://readthedocs.org/projects/alloy/badge/?version=latest)](https://alloy.readthedocs.io/en/latest/?badge=latest)
 [![Updates](https://pyup.io/repos/github/uchuhimo/alloy/shield.svg)](https://pyup.io/repos/github/uchuhimo/alloy/)
 
