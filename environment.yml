@@ -1,0 +1,6 @@
+name: alloy
+dependencies:
+    - python=3.7
+    - pip
+    - pip:
+        - poetry==1.0.0b8 --index-url https://pypi.org/simple

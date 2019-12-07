@@ -1,0 +1,24 @@
+black
+bump2version
+click
+contextvars; python_version < "3.7"
+coverage
+dataclasses; python_version < "3.7"
+dephell[full]
+fissix
+flake8
+ipython
+isort
+more-itertools
+mypy
+pip
+pre-commit
+pytest
+six
+sphinx
+tox
+twine
+typing; python_version < "3.7"
+typing-extensions
+watchdog
+wheel
