@@ -1,5 +1,6 @@
 [tool.dephell.main]
-versioning = "semver"
+from = {format = "poetry", path = "pyproject.toml"}
+to = {format = "setuppy", path = "setup.py"}
 
 [tool.black]
 line-length = 88

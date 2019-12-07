@@ -38,7 +38,7 @@ There are two options:
 poetry update
 ```
 
-## Shows information about installed packages
+### Shows information about installed packages
 
 ```bash
 poetry show

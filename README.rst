@@ -13,6 +13,11 @@ Alloy
    :alt: 
 
 
+.. image:: https://github.com/uchuhimo/alloy/workflows/Python%20package/badge.svg
+   :target: https://github.com/uchuhimo/alloy/actions
+   :alt: 
+
+
 .. image:: https://readthedocs.org/projects/alloy/badge/?version=latest
    :target: https://alloy.readthedocs.io/en/latest/?badge=latest
    :alt: Documentation Status
@@ -63,7 +68,7 @@ Update dependencies
    poetry update
 
 Shows information about installed packages
-------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. code-block:: bash
 
