@@ -1,14 +1,14 @@
-# Alloy
+# alo
 
-[![](https://img.shields.io/pypi/v/alloy.svg)](https://pypi.python.org/pypi/alloy)
-[![](https://img.shields.io/travis/uchuhimo/alloy.svg)](https://travis-ci.org/uchuhimo/alloy)
-[![](https://github.com/uchuhimo/alloy/workflows/Python%20package/badge.svg)](https://github.com/uchuhimo/alloy/actions)
-[![Documentation Status](https://readthedocs.org/projects/alloy/badge/?version=latest)](https://alloy.readthedocs.io/en/latest/?badge=latest)
-[![Updates](https://pyup.io/repos/github/uchuhimo/alloy/shield.svg)](https://pyup.io/repos/github/uchuhimo/alloy/)
+[![](https://img.shields.io/pypi/v/alo.svg)](https://pypi.python.org/pypi/alo)
+[![](https://img.shields.io/travis/uchuhimo/alo.svg)](https://travis-ci.org/uchuhimo/alo)
+[![](https://github.com/uchuhimo/alo/workflows/Python%20package/badge.svg)](https://github.com/uchuhimo/alo/actions)
+[![Documentation Status](https://readthedocs.org/projects/alo/badge/?version=latest)](https://alo.readthedocs.io/en/latest/?badge=latest)
+[![Updates](https://pyup.io/repos/github/uchuhimo/alo/shield.svg)](https://pyup.io/repos/github/uchuhimo/alo/)
 
 A tool to combine function with DAG.
 
-- Documentation: https://alloy.readthedocs.io.
+- Documentation: https://alo.readthedocs.io.
 
 ## Development
 
@@ -16,7 +16,7 @@ A tool to combine function with DAG.
 
 ```bash
 conda env create -f environment.yml
-source activate alloy
+source activate alo
 ```
 
 ### Install dependencies

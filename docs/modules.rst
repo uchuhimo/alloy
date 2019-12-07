@@ -1,7 +1,7 @@
-alloy
-=====
+alo
+===
 
 .. toctree::
    :maxdepth: 4
 
-   alloy
+   alo

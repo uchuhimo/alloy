@@ -1,37 +1,37 @@
 
-Alloy
+alo
 =====
 
 
-.. image:: https://img.shields.io/pypi/v/alloy.svg
-   :target: https://pypi.python.org/pypi/alloy
-   :alt: 
+.. image:: https://img.shields.io/pypi/v/alo.svg
+   :target: https://pypi.python.org/pypi/alo
+   :alt:
 
 
-.. image:: https://img.shields.io/travis/uchuhimo/alloy.svg
-   :target: https://travis-ci.org/uchuhimo/alloy
-   :alt: 
+.. image:: https://img.shields.io/travis/uchuhimo/alo.svg
+   :target: https://travis-ci.org/uchuhimo/alo
+   :alt:
 
 
-.. image:: https://github.com/uchuhimo/alloy/workflows/Python%20package/badge.svg
-   :target: https://github.com/uchuhimo/alloy/actions
-   :alt: 
+.. image:: https://github.com/uchuhimo/alo/workflows/Python%20package/badge.svg
+   :target: https://github.com/uchuhimo/alo/actions
+   :alt:
 
 
-.. image:: https://readthedocs.org/projects/alloy/badge/?version=latest
-   :target: https://alloy.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/alo/badge/?version=latest
+   :target: https://alo.readthedocs.io/en/latest/?badge=latest
    :alt: Documentation Status
 
 
-.. image:: https://pyup.io/repos/github/uchuhimo/alloy/shield.svg
-   :target: https://pyup.io/repos/github/uchuhimo/alloy/
+.. image:: https://pyup.io/repos/github/uchuhimo/alo/shield.svg
+   :target: https://pyup.io/repos/github/uchuhimo/alo/
    :alt: Updates
 
 
 A tool to combine function with DAG.
 
 
-* Documentation: https://alloy.readthedocs.io.
+* Documentation: https://alo.readthedocs.io.
 
 Development
 -----------
@@ -42,7 +42,7 @@ Create a virtual environment
 .. code-block:: bash
 
    conda env create -f environment.yml
-   source activate alloy
+   source activate alo
 
 Install dependencies
 ^^^^^^^^^^^^^^^^^^^^

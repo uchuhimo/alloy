@@ -50,7 +50,7 @@ clean-test: ## remove test and coverage artifacts
 	rm -fr .dephell_report
 
 lint: ## check style with flake8
-	flake8 alloy tests
+	flake8 alo tests
 
 test: ## run tests quickly with the default Python
 	pytest
@@ -59,14 +59,14 @@ test-all: ## run tests on every Python version with tox
 	tox
 
 coverage: ## check code coverage quickly with the default Python
-	coverage run --source alloy -m pytest
+	coverage run --source alo -m pytest
 	coverage report -m
 	coverage html
 
 docs: ## generate Sphinx HTML documentation, including API docs
-	rm -f docs/alloy.rst
+	rm -f docs/alo.rst
 	rm -f docs/modules.rst
-	sphinx-apidoc -o docs/ alloy
+	sphinx-apidoc -o docs/ alo
 	$(MAKE) -C docs clean
 	$(MAKE) -C docs html
 

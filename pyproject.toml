@@ -13,12 +13,12 @@ include_trailing_comma = true
 force_grid_wrap = 0
 use_parentheses = true
 line_length = 88
-known_first_party = "alloy"
+known_first_party = "alo"
 default_section = "THIRDPARTY"
 not_skip = "__init__.py"
 
 [tool.poetry]
-name = "Alloy"
+name = "alo"
 version = "0.2.0"
 description = "A tool to combine function with DAG"
 
@@ -30,8 +30,8 @@ authors = [
 
 readme = "README.md"
 
-repository = "https://github.com/uchuhimo/alloy"
-homepage = "https://github.com/uchuhimo/alloy"
+repository = "https://github.com/uchuhimo/alo"
+homepage = "https://github.com/uchuhimo/alo"
 
 keywords = []
 classifiers=[
@@ -75,4 +75,4 @@ twine="*"
 ipython = "*"
 
 [tool.poetry.scripts]
-alloy = "alloy.cli:main"
+alo = "alo.cli:main"

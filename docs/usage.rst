@@ -2,6 +2,6 @@
 Usage
 =====
 
-To use alloy in a project::
+To use alo in a project::
 
-    import alloy
+    import alo

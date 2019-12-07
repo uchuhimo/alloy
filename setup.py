@@ -20,13 +20,13 @@ if os.path.exists(readme_path):
 
 setup(
     long_description=readme,
-    name='Alloy',
+    name='alo',
     version='0.2.0',
     description='A tool to combine function with DAG',
     python_requires='>=3.6',
     project_urls={
-        "homepage": "https://github.com/uchuhimo/alloy",
-        "repository": "https://github.com/uchuhimo/alloy"
+        "homepage": "https://github.com/uchuhimo/alo",
+        "repository": "https://github.com/uchuhimo/alo"
     },
     author='uchuhimo',
     author_email='uchuhimo@outlook.com',
@@ -40,8 +40,8 @@ setup(
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8'
     ],
-    entry_points={"console_scripts": ["alloy = alloy.cli:main"]},
-    packages=['alloy'],
+    entry_points={"console_scripts": ["alo = alo.cli:main"]},
+    packages=['alo'],
     package_dir={"": "."},
     package_data={},
     install_requires=[

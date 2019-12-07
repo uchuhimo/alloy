@@ -1,4 +1,4 @@
-* alloy version:
+* alo version:
 * Python version:
 * Operating System:
 

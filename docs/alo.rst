@@ -1,13 +1,13 @@
-alloy package
-=============
+alo package
+===========
 
 Submodules
 ----------
 
-alloy.cli module
-----------------
+alo.cli module
+--------------
 
-.. automodule:: alloy.cli
+.. automodule:: alo.cli
    :members:
    :undoc-members:
    :show-inheritance:
@@ -16,7 +16,7 @@ alloy.cli module
 Module contents
 ---------------
 
-.. automodule:: alloy
+.. automodule:: alo
    :members:
    :undoc-members:
    :show-inheritance:

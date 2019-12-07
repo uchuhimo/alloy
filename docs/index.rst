@@ -1,4 +1,4 @@
-Welcome to alloy's documentation!
+Welcome to alo's documentation!
 ======================================
 
 .. toctree::

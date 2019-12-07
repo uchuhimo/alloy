@@ -8,13 +8,13 @@ Installation
 Stable release
 --------------
 
-To install alloy, run this command in your terminal:
+To install alo, run this command in your terminal:
 
 .. code-block:: console
 
-    $ pip install alloy
+    $ pip install alo
 
-This is the preferred method to install alloy, as it will always install the most recent stable release.
+This is the preferred method to install alo, as it will always install the most recent stable release.
 
 If you don't have `pip`_ installed, this `Python installation guide`_ can guide
 you through the process.
@@ -26,19 +26,19 @@ you through the process.
 From sources
 ------------
 
-The sources for alloy can be downloaded from the `Github repo`_.
+The sources for alo can be downloaded from the `Github repo`_.
 
 You can either clone the public repository:
 
 .. code-block:: console
 
-    $ git clone git://github.com/uchuhimo/alloy
+    $ git clone git://github.com/uchuhimo/alo
 
 Or download the `tarball`_:
 
 .. code-block:: console
 
-    $ curl -OJL https://github.com/uchuhimo/alloy/tarball/master
+    $ curl -OJL https://github.com/uchuhimo/alo/tarball/master
 
 Once you have a copy of the source, you can install it with:
 
@@ -47,5 +47,5 @@ Once you have a copy of the source, you can install it with:
     $ python setup.py install
 
 
-.. _Github repo: https://github.com/uchuhimo/alloy
-.. _tarball: https://github.com/uchuhimo/alloy/tarball/master
+.. _Github repo: https://github.com/uchuhimo/alo
+.. _tarball: https://github.com/uchuhimo/alo/tarball/master
