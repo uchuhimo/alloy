@@ -21,7 +21,7 @@ if os.path.exists(readme_path):
 setup(
     long_description=readme,
     name='alloy',
-    version='0.1.0',
+    version='0.2.0',
     description='A tool to combine function with DAG',
     python_requires='>=3.6',
     project_urls={

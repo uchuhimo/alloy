@@ -38,6 +38,12 @@ There are two options:
 poetry update
 ```
 
+### Bump version
+
+```bash
+bumpversion minor  # major, minor, patch
+```
+
 ### Shows information about installed packages
 
 ```bash

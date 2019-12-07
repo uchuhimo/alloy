@@ -67,6 +67,13 @@ Update dependencies
 
    poetry update
 
+Bump version
+^^^^^^^^^^^^
+
+.. code-block:: bash
+
+   bumpversion minor  # major, minor, patch
+
 Shows information about installed packages
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
