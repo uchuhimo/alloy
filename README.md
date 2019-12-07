@@ -44,10 +44,18 @@ poetry update
 bumpversion minor  # major, minor, patch
 ```
 
-### Shows information about installed packages
+### Show information about installed packages
 
 ```bash
 poetry show
+```
+
+### Show dependency tree
+
+```bash
+dephell deps tree
+# or
+dephell deps tree pytest
 ```
 
 ### Install git pre-commit hooks
