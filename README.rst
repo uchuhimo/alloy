@@ -1,21 +1,21 @@
 
 alo
-=====
+===
 
 
 .. image:: https://img.shields.io/pypi/v/alo.svg
    :target: https://pypi.python.org/pypi/alo
-   :alt:
+   :alt: 
 
 
 .. image:: https://img.shields.io/travis/uchuhimo/alo.svg
    :target: https://travis-ci.org/uchuhimo/alo
-   :alt:
+   :alt: 
 
 
 .. image:: https://github.com/uchuhimo/alo/workflows/Python%20package/badge.svg
    :target: https://github.com/uchuhimo/alo/actions
-   :alt:
+   :alt: 
 
 
 .. image:: https://readthedocs.org/projects/alo/badge/?version=latest
