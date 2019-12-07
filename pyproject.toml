@@ -19,7 +19,7 @@ not_skip = "__init__.py"
 
 [tool.poetry]
 name = "alo"
-version = "0.2.0"
+version = "0.3.0"
 description = "A tool to combine function with DAG"
 
 license = "Apache-2.0"

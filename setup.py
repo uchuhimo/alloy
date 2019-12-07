@@ -21,7 +21,7 @@ if os.path.exists(readme_path):
 setup(
     long_description=readme,
     name='alo',
-    version='0.2.0',
+    version='0.3.0',
     description='A tool to combine function with DAG',
     python_requires='>=3.6',
     project_urls={
