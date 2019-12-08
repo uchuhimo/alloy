@@ -2,7 +2,7 @@
 
 os:
   - linux
-  - osx
+  # - osx
 
 language: python
 python:
