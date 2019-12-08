@@ -24,10 +24,13 @@ source activate alo
 There are two options:
 
 - Use poetry:
+
     ```bash
     poetry install
     ```
+
 - Use pip:
+
     ```bash
     pip install -e ".[dev]"
     ```

@@ -50,12 +50,16 @@ Install dependencies
 There are two options:
 
 
-* Use poetry:
+* 
+  Use poetry:
+
   .. code-block:: bash
 
        poetry install
 
-* Use pip:
+* 
+  Use pip:
+
   .. code-block:: bash
 
        pip install -e ".[dev]"
