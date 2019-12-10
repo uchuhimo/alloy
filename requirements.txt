@@ -19,6 +19,6 @@ sphinx
 tox
 twine
 typing; python_version < "3.7"
-typing-extensions
+typing-extensions==3.7.4.1
 watchdog
 wheel
