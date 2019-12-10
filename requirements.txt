@@ -3,7 +3,7 @@ bump2version
 click
 contextvars; python_version < "3.7"
 coverage
-dataclasses; python_version < "3.7"
+dataclasses==0.7; python_version < "3.7"
 dephell[full]
 fissix
 flake8
