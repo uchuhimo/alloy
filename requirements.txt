@@ -15,7 +15,7 @@ pip
 pre-commit
 pytest
 six
-sphinx
+sphinx==2.2.2
 tox
 twine
 typing; python_version < "3.7"
