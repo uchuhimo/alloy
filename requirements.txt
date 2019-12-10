@@ -1,6 +1,6 @@
 black
 bump2version
-click
+click==7.0
 contextvars; python_version < "3.7"
 coverage
 dataclasses; python_version < "3.7"
