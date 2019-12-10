@@ -1,5 +1,5 @@
 black
-bump2version
+bump2version==0.5.11
 click
 contextvars; python_version < "3.7"
 coverage
