@@ -4,7 +4,7 @@ click
 contextvars; python_version < "3.7"
 coverage
 dataclasses; python_version < "3.7"
-dephell[full]
+dephell[full]==0.7.9
 fissix
 flake8
 ipython
