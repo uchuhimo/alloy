@@ -6,7 +6,7 @@ coverage
 dataclasses; python_version < "3.7"
 dephell[full]
 fissix
-flake8
+flake8==3.7.9
 ipython
 isort
 more-itertools
