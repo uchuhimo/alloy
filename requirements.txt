@@ -8,7 +8,7 @@ dephell[full]
 fissix
 flake8
 ipython
-isort
+isort==4.3.21
 more-itertools
 mypy
 pip
