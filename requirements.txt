@@ -2,7 +2,7 @@ black
 bump2version
 click
 contextvars; python_version < "3.7"
-coverage
+coverage==4.5.4
 dataclasses; python_version < "3.7"
 dephell[full]
 fissix
