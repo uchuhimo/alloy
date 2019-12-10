@@ -5,7 +5,7 @@ contextvars; python_version < "3.7"
 coverage
 dataclasses; python_version < "3.7"
 dephell[full]
-fissix
+fissix==19.2b1
 flake8
 ipython
 isort
