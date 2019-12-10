@@ -10,7 +10,7 @@ flake8
 ipython
 isort
 more-itertools
-mypy
+mypy==0.750
 pip
 pre-commit
 pytest
