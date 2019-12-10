@@ -16,7 +16,7 @@ pre-commit
 pytest
 six
 sphinx
-tox
+tox==3.14.2
 twine
 typing; python_version < "3.7"
 typing-extensions
