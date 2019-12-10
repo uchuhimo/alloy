@@ -1,7 +1,7 @@
 black
 bump2version
 click
-contextvars; python_version < "3.7"
+contextvars==2.4; python_version < "3.7"
 coverage
 dataclasses; python_version < "3.7"
 dephell[full]
