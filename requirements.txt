@@ -7,7 +7,7 @@ dataclasses; python_version < "3.7"
 dephell[full]
 fissix
 flake8
-ipython
+ipython==7.10.1
 isort
 more-itertools
 mypy
