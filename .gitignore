@@ -103,5 +103,6 @@ ENV/
 
 # IDE settings
 .vscode/
+.idea/
 
 .dephell_report/
